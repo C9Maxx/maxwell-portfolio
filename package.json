@@ -1,0 +1,9 @@
+{
+  "name": "maxwell-chukwuebuka-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Maxwell Chukwuebuka — Full-Stack Web Developer",
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
