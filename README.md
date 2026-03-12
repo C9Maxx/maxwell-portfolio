@@ -63,7 +63,7 @@ Without this step the contact form won't send emails.
 3. Click **Environment Variables** (left sidebar)
 4. Add a new variable:
    - **Key:** `RESEND_API_KEY`
-   - **Value:** `re_4386SQ8U_jechiPuRDrzCUf8BaXJNQ2dq`
+   - **Value:** `XXXXXXXXXXXXXXXXXXXXXXX`
    - **Environments:** ✅ Production  ✅ Preview  ✅ Development
 5. Click **Save**
 
